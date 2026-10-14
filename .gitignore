@@ -31,3 +31,6 @@ obj/
 *.res
 *.aps
 *.log
+
+# Local validation and generated files
+build/
